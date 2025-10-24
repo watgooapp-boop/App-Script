@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Student Attendance Tracker",
+  "description": "A web application to track student attendance, store data, generate reports, and calculate attendance percentages. It highlights students with attendance below 60% and 80% and uses AI to generate summaries.",
+  "requestFramePermissions": []
+}
